@@ -4,8 +4,8 @@ _A community-led effort to delay, suppress, and safely block unwanted macOS upgr
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg)](CONTRIBUTING.md)
-[![GitHub Discussions](https://img.shields.io/github/discussions/travisvn/stop-tahoe-update?logo=github)](/discussions)
-[![Build & Validate](https://github.com/travisvn/stop-tahoe-update/actions/workflows/validate.yml/badge.svg)](/actions)
+[![GitHub Discussions](https://img.shields.io/github/discussions/travisvn/stop-tahoe-update?logo=github)](https://github.com/travisvn/stop-tahoe-update/discussions)
+[![Build & Validate](https://github.com/travisvn/stop-tahoe-update/actions/workflows/validate.yml/badge.svg)](https://github.com/travisvn/stop-tahoe-update/actions)
 
 > Safe • Transparent • Community-driven  
 > Everything here is reversible and off by default.
@@ -174,7 +174,7 @@ Future versions may include:
 
 ## 💬 Community & Support
 
-- 💭 [GitHub Discussions](/discussions): share findings, theories, and test results
+- 💭 [GitHub Discussions](https://github.com/travisvn/stop-tahoe-update/discussions): share findings, theories, and test results
 - 🧩 `observations` tag: submit verified upgrade triggers or logs
 - 🧠 RFCs: propose new shields via `docs/rfcs/`
 
