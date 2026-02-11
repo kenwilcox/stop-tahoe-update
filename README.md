@@ -103,6 +103,12 @@ We welcome:
 
 ---
 
+## 📖 Guides
+
+- [Remove the Red Badge from the System Settings Dock Icon](./docs/REMOVE_DOCK_BADGE.md) — Get rid of the persistent notification badge on the System Settings icon in your Dock
+
+---
+
 ## 🧰 Quick Start
 
 ### 1. Clone or download the repo
